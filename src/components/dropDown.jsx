@@ -1,5 +1,5 @@
 import React from 'react'
-import CurrencyConverter from './CurrencyConverter';
+import CurrencyConverter from './currencyConverter';
 import { CiHeart } from "react-icons/ci";
 import { FaRegHeart } from "react-icons/fa";
 import { FaHeart } from "react-icons/fa";
